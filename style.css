@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0%;
+}
+.container {
+    width: 550px;
+    height: 550px;
+    border: 1px solid;
+    border-color: #b4b4b4;
+    margin-left: 16px;
+    margin-top: 15px;
+    padding-left: 134px;
+    padding-top: 84px;
+}
+.bog {
+    color: #808080;
+    font-size: 14px;
+}
+.ima {
+    width: 305px;
+    height: 226px;
+
+}
